@@ -10,6 +10,7 @@
 <h2>📌 Demonstração</h2>
 
 <img width="600" height="292" alt="demonstração" src="https://github.com/user-attachments/assets/29337a0f-aafb-4f5b-ba91-feebc7dc0eda" />
+<a href = "https://angelonascimento.github.io/challenge-amigo-secreto/"><br>Link Site</a>
 
 
 <h2>⚙️ Tecnologias Utilizadas</h2>
